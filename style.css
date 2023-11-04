@@ -37,7 +37,9 @@ section {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  padding: 30px;
 }
+
 .sectioninfo {
   background-color: #fff;
   border-radius: 10px;
@@ -45,6 +47,11 @@ section {
   width: 50%;
   margin: 0 auto;
   text-align: center;
+  padding: 30px;
+}
+iframe {
+  max-width: 100%;
+  height:auto;
 }
 
 footer {
