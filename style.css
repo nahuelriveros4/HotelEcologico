@@ -33,21 +33,19 @@ section {
 .reservation-form {
   background-color: #fff;
   border-radius: 10px;
-  padding: 20px;
+  padding: 30px;
   width: 50%;
   margin: 0 auto;
   text-align: center;
-  padding: 30px;
 }
 
 .sectioninfo {
   background-color: #fff;
   border-radius: 10px;
-  padding: 20px;
+  padding: 30px;
   width: 50%;
   margin: 0 auto;
   text-align: center;
-  padding: 30px;
 }
 iframe {
   max-width: 100%;
